@@ -1,0 +1,1 @@
+{"agent_name":"moss","device_id":"mydev","entities":[],"environment":"Host: mydev, OS: Ubuntu 24.04.3 LTS, Arch: x86_64, Cores: 16, Mem: 15.5GB, GPU: none, ROS: jazzy","key_points":["天气晴","温度20度"],"summary":"用户询问天气，助手回复晴朗，温度20度。","timestamp":"2026-06-17T15:29:41Z"}
